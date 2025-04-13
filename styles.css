@@ -1,0 +1,9 @@
+.payment-form {
+    display: inline-block;
+    border-radius: border-box ;
+    align-items: center;
+    justify-content: center;
+    padding-top:50px;
+    padding-left: 350px;
+}
+
